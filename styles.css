@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+h3{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+table{
+	Table Borders: 1px solid black;
+	Spacing: 1px; 
+	Cell Padding: 1px;
+}
