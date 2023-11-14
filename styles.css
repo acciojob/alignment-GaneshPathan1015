@@ -13,6 +13,9 @@ table{
 	Spacing: 1px; 
 	Cell Padding: 1px;
 }
+#t1{
+	border: 1px solid rgb(0,0,0)
+}
 img{
 	margin:0  50%;
 }
