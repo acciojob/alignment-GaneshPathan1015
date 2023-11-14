@@ -17,5 +17,6 @@ table{
 	border: 1px inset rgb(128,128,128)
 }
 img{
+	border:2px solid black;
 	margin:0  50%;
 }
